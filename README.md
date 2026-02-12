@@ -1,7 +1,9 @@
 **Bank Management System**
+
 The Bank Management System is a simple Java-based console application developed using a layered architecture.  
 
 **Project Structure**
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/93872c9d-a673-4610-ae65-e8218e73e5c8" />
 
 **Output**
